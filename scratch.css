@@ -34,8 +34,10 @@
 img{
     display: black;
     width:25%;
-    margin-left:auto;
+    margin-left:50px;
     margin-right:auto;
+    display: block;
+
 
 }
 nav{
@@ -62,6 +64,7 @@ nav a:hover{
     aspect-ratio: 16 / 9; /* Maintain 16:9 ratio */
     position: relative;
     background-color: #000;
+    display: ;
   }
   
 
